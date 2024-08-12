@@ -1,0 +1,41 @@
+body {
+    color: rgb(230, 142, 61);
+    background: rgb(0, 0, 0);
+}
+header {
+    border: solid 2px rgb(228, 141, 70);
+}
+header {
+    border: solid 2px rgb(228, 169, 42);
+}
+header {
+    border-bottom: solid 2px rgb(228, 178, 42);
+    padding: 20px;
+}
+header {
+    border-bottom: solid 2px rgb(228, 169, 42);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(228, 178, 42);
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h1 {
+    font-size: 40px;
+  }  
+  p {
+    font-size: 20px;
+  }
+  img {
+    height: 200px;
+  }
+  section {
+    background: rgb(0, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
